@@ -8,6 +8,8 @@ Requires at least: 5.0
 Tested up to: 5.6.2
 Tags: content, evangelizo, ewangelia, gospel, readings, psalm, wordpress, shortcode
 Stable tag: main
+License: GPL-3.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 
 Display today readings from the Evangelizo.org project.
 
