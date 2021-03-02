@@ -1,7 +1,7 @@
 article[class|='evangelizo'] {
-  max-width: 40em;
+	max-width: 40em;
 }
 
 article[class|='evangelizo']:not(.evangelizo-psalm) {
-  text-align: justify;
+	text-align: justify;
 }

@@ -2,9 +2,9 @@
 Contributors: marverix
 Author: Marek Sierociński
 Author URI: https://github.com/marverix
-Plugin URL: https://github.com/marverix/wp-plugin-evangelizo
+Plugin URI: https://github.com/marverix/wp-plugin-evangelizo
 Requires PHP: 5.6
-Requires at least: 5.0
+Requires at least: 5.2
 Tested up to: 5.6.2
 Tags: content, evangelizo, ewangelia, gospel, readings, psalm, wordpress, shortcode
 Stable tag: main
@@ -32,6 +32,7 @@ Inserting content and configuration is done using the shortcode:
 Currently supported parameters:
 
 * `language` - The language code, in which readings should be fetched and displayed?
+* `force` - Set `true` to force re-fetch the data.
 
 = Supported Languages =
 
