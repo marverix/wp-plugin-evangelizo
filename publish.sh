@@ -25,9 +25,9 @@ cd $PLUGIN_TMP_DEST; svn cp trunk tags/$PLUGIN_VERSION
 
 echo "Preparing to publish..."
 
-echo "Enter username"
+echo -n "> Enter username: "
 read WP_USERNAME
-echo "Enter password"
+echo -n "> Enter password: "
 read WP_PASSWORD
 
 echo "Publishing..."
