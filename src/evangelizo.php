@@ -11,7 +11,7 @@
  * Plugin Name:       evangelizo
  * Plugin URI:        https://github.com/marverix/wp-plugin-evangelizo
  * Description:       Display today readings from the Evangelizo.org project.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.2
  * Requires PHP:      5.6
  * Author:            Marek Sierociński
